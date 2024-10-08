@@ -4,5 +4,13 @@
   },
   "scripts": {
     "start": "node index.js"
-  }
+  },
+  "name": "challenge1",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
